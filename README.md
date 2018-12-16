@@ -1,1 +1,1 @@
-<a href="heu.html">Jeu</a>
+<a href="jeu.html">Jeu</a>
